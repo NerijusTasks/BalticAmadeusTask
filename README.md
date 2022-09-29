@@ -14,3 +14,7 @@
 6. Admin can delete books.
 
 ![alt text](https://i.postimg.cc/fRv5s5QC/Swagerr-UI.png)
+
+7. All data is saved in local Data base.
+
+![alt text](https://i.postimg.cc/598WWdjM/DataBase.png)
