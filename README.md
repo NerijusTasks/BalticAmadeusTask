@@ -13,3 +13,4 @@
 5. Admin can change book`s status;
 6. Admin can delete books.
 
+![alt text](https://i.postimg.cc/fRv5s5QC/Swagerr-UI.png)
