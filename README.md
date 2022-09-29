@@ -11,14 +11,18 @@
 #### 3. Method get all books;
 #### 4. Admin can add new book to library;
 #### 5. Admin can change book`s status;
-#### 6. Admin can delete books.<br/>
-
-
+#### 6. Admin can delete books.
+<br/>
+<br/>
 
 ![alt text](https://i.postimg.cc/fRv5s5QC/Swagerr-UI.png)
 
+<br/>
+<br/>
 
 #### 7. All data is saved in local Data base.
 
+<br/>
+<br/>
 
 ![alt text](https://i.postimg.cc/598WWdjM/DataBase.png)
